@@ -89,3 +89,17 @@ h3 {
 .email-link:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 576px) {
+
+p {
+  text-align: center;
+  display: block;
+}
+
+a {
+  display: block;
+  text-align: center;
+}
+
+}
